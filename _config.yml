@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Mohammadjavad Vakili"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I'm a physicist at Leiden Observatory."
+  location         : "Leiden, the Netherlands"
   employer         : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  ADS    : "http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Vakili,%20Mohammadjavad&db_key=PRE"
   email            : 
   uri              : 
   bitbucket        :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        : 
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
