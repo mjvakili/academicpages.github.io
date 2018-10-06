@@ -11,31 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D in Physics, New York University, 2017
+* M.S. in Physics, Sharif University of Technology, 2011
+* B.S. in Physics, Sharif University of Technology, 2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2012-2017: Graduate Research Assistant
+  * Center for Cosmology and Particle Physics, New York University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-present: Postdoctoral Research Associate
+  * Leiden Observatory, Leiden University
   
-Skills
+Research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Statistical inference
+  * Approximate Bayesian Computation
+  * Bayesian Inference
+  * Deep learning
+* Cosmology
+  * Cosmic shear
+  * Galaxy-galaxy lensing
+  * Galaxy clustering
+  * Intrinsic alignments
+  * Photometric redshifts
+  * Covariance matrices
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,6 +55,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional Service
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer of Peer-reviewed journals
+  * Monthly Notices of the Royal Astronomical Society
+  * The Astronomical Journal
+* Leader Kilo Degree Survey Randoms working group (2018-) 
+* Organizer of PostDoc Coffee, Leiden Observatory (2018-)
+* Organizer of CosmoCofee, Center for Cosmology and Particle Physics (2015-2017)
+* Member of the Local Organizing Committee, AstroHackWeek, New York, NY, US (2015)
+
