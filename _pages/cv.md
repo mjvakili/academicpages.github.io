@@ -9,20 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* 2017-present: Postdoctoral Research Associate
+  * Leiden Observatory, Leiden University
+* 2012-2017: Graduate Research Assistant
+  * Center for Cosmology and Particle Physics, New York University
+  
 Education
 ======
 * Ph.D in Physics, New York University, 2017
 * M.S. in Physics, Sharif University of Technology, 2011
 * B.S. in Physics, Sharif University of Technology, 2009
 
-Work experience
-======
-* 2012-2017: Graduate Research Assistant
-  * Center for Cosmology and Particle Physics, New York University
-
-* 2017-present: Postdoctoral Research Associate
-  * Leiden Observatory, Leiden University
-  
 Research interests
 ======
 * Statistical inference
@@ -65,3 +64,7 @@ Professional Service
 * Organizer of CosmoCofee, Center for Cosmology and Particle Physics (2015-2017)
 * Member of the Local Organizing Committee, AstroHackWeek, New York, NY, US (2015)
 
+Supervision of Students
+======
+* Erik Osinga, Leiden University (2018-)
+* Tugba Boztepe, Leiden University (Summer 2018)
