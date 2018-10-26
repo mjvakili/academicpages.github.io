@@ -22,7 +22,7 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               : #https://home.strw.leidenuniv.nl/~vakili/ # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : mjvakili.github.io #https://home.strw.leidenuniv.nl/~vakili/ # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
     num_posts            : # 5 (default)
