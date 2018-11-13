@@ -59,7 +59,7 @@ Professional Service
 * Reviewer of Peer-reviewed journals
   * Monthly Notices of the Royal Astronomical Society
   * The Astronomical Journal
-* Leader Kilo Degree Survey Randoms working group (2018-) 
+* Convener of Kilo Degree Survey Randoms working group (2018-) 
 * Organizer of PostDoc Coffee, Leiden Observatory (2018-)
 * Organizer of CosmoCofee, Center for Cosmology and Particle Physics (2015-2017)
 * Member of the Local Organizing Committee, AstroHackWeek, New York, NY, US (2015)
