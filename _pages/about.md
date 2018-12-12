@@ -17,7 +17,7 @@ I'm mostly interested in observational cosmology and developing and applying met
 the data from the large scale galaxy surveys. 
 Currently, I'm invovled in the upcoming Euclid Survey where I work on a joint galaxy-galaxy lensing and galaxy clustering analysis. 
 I'm also involved in the ongoing Kilo Degree Survey (KiDS) and the Physics of the Accelerating Universe (PAU) Survey.
-Furthermore, I'm working on using likelihood free inference and deep learning to extract information from the 
+Furthermore, I'm working on using likelihood free inference and deep learning to extract information from 
 cosmological simulations and datasets.
 
 Content
