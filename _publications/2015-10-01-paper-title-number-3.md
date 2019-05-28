@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Luminous red galaxies in the Kilo Degree Survey: selection with broad-band photometry and weak lensing measurements"
 collection: publications
 permalink: /publications/2015-10-01-paper-title-number-3
 venue: "Journal 1"
