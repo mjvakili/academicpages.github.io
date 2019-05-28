@@ -6,7 +6,7 @@ venue: "Monthly Notices of the Royal Astronomical Society"
 excerpt: 'This paper is about selection of luminous red galaxies with robust photometric redshifts for large-scale structure studies.'
 date: 2019-05-08
 paperurl: https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stz1249/5487085
-citation: 'Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).'
+%citation: 'Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).'
 ---
 
 ## Abstract
