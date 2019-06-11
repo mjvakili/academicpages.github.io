@@ -66,5 +66,9 @@ Professional Service
 
 Supervision of Students
 ======
+* Hossein Hashemi, Leiden University (2019-)
+  * Dissecting the galaxy colors with nonlinear dimensionality reduction techniques
 * Erik Osinga, Leiden University (2018-)
+  * Weak lensing data compression with information maximizing neural networks
 * Tugba Boztepe, Leiden University (Summer 2018)
+  * large-scale galactic conformity in Eagle simulation
