@@ -11,9 +11,11 @@ redirect_from:
 
 Work experience
 ======
-* 2017-present: Postdoctoral Research Associate
+* 2017-present: Postdoctoral Research Associate, Data Scientist
   * Leiden Observatory, Leiden University
-* 2012-2017: Graduate Research Assistant
+* 2020-present: Data Scientist Volunteer
+  * Netherlands Red Cross
+* 2011-2017: Graduate Research Assistant
   * Center for Cosmology and Particle Physics, New York University
   
 Education
@@ -22,37 +24,13 @@ Education
 * M.S. in Physics, Sharif University of Technology, 2011
 * B.S. in Physics, Sharif University of Technology, 2009
 
-Research interests
+Skills
 ======
-* Statistical inference
-  * Approximate Bayesian Computation
-  * Bayesian Inference
-  * Deep learning
-* Cosmology
-  * Cosmic shear
-  * Galaxy-galaxy lensing
-  * Galaxy clustering
-  * Intrinsic alignments
-  * Photometric redshifts
-  * Covariance matrices
-  
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Machine Learning, Statistical Inference, Data Visualization, Data Mining, Time Series Forecasting 
+* Data Compression, Feature Engineering, Bayesian Statistics, Optimization, Linear Algebra, Computer Vision
+* Python, SQL, Pandas, PySpark, Jupyter Notebook
+* Linux, Bash, Git
+* Scikit-Learn, Tensorflow, Keras, Lime
   
 Professional Service
 ======
@@ -66,6 +44,8 @@ Professional Service
 
 Supervision of Students
 ======
+* Lisa Dombrovskij, Leiden University (2019-)
+  * Mitigating the impact of survey systematics on clustering of galaxies
 * Hossein Hashemi, Leiden University (2019-)
   * Dissecting the galaxy colors with nonlinear dimensionality reduction techniques
 * Erik Osinga, Leiden University (2018-)
