@@ -1,5 +1,5 @@
 ---
-title: "Graduate Statistical Physics"
+title: "Advanced Statistical Physics"
 collection: teaching
 type: "Graduate course"
 permalink: 
