@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Mohammadjavad Vakili"
-description              : &description "Postdoc researcher at Leiden University"
+description              : &description "Postdoctoral research associate and data scientist"
 url                      : https://mjvakili.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mjvakili/mjvakili.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Mohammadjavad Vakili"
   avatar           : "profile.jpg"
-  bio              : "Physicist, Cosmological data analyst"
-  location         : "Leiden, The Netherlands"
+  bio              : "Data Scientist, Researcher"
+  location         : "The Hague, The Netherlands"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=FnlCPFEAAAAJ&hl=en&oi=ao"
   email            : "vakili@strw.leidenuniv.nl"
   uri              :
   bitbucket        :
@@ -94,13 +94,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"mjvakili"
+  github           : "github.com/mjvakili"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/mohammadjavad-vakili/"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
