@@ -1,7 +1,6 @@
 ---
-title: "Modeling hard-to-evaluate conditional probabilities with mixture density networks"
+title: "Modeling hard-to-evaluate conditional probabilities in cosmology with mixture density networks"
 excerpt: " 1<br/><img src='/images/vmax/MDN.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
