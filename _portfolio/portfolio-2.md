@@ -1,6 +1,6 @@
 ---
 title: "Parameter Estimation with complex simulations"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/redsq/lrg.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/ABC/Screenshot 2020-05-04 at 7.13.01 PM.png'>"
 collection: portfolio
 ---
 
