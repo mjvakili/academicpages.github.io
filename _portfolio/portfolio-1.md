@@ -1,6 +1,6 @@
 ---
-title: "Red-sequence galaxies in the Kilo Degree Survey"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/redsq/lrg.png'>"
+title: "Detection of red-sequence galaxies in the Kilo Degree Survey"
+excerpt: "How to find and characterize the reddest objects from 100 Tb of data 1<br/><img src='/images/redsq/lrg.png'>"
 collection: portfolio
 ---
 
