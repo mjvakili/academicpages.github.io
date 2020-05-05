@@ -10,13 +10,3 @@ of the universe. These objects are ideal candidates for understanding the large-
 
 With the [Kilo Degree Survey](http://kids.strw.leidenuniv.nl/) we have images 1500 deg<sup>2</sup> of the sky in 9 filters.
 
-
-![](/images/redsq/filters.png)
-
-
-
-
-
-![equation](https://microsoft.codecogs.com/gif.latex?\dpi{400}\alpha&space;+&space;\frac{2\beta}{\gamma})  
-
-

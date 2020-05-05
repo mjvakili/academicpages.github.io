@@ -1,9 +1,11 @@
 ---
 title: "Parameter Estimation with complex simulations"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/ABC/Screenshot 2020-05-04 at 7.13.01 PM.png'>"
+excerpt: "Accurate parameter estimation without likelihoods? <br/><img src='/images/ABC/Screenshot 2020-05-04 at 7.13.01 PM.png'>"
 collection: portfolio
 ---
+In cosmology, the mathematical models describing the universe are constrained with Bayesian inference. 
+The aim of Bayesian inference is to calculated the probability of model conditioned on the observed data.
+This condistional probability, named posterior, can be fully determined (upto some prefactor) 
+by the probability of the observed data conditioned on the model (known as the likelihood) and the 
+prior probability over the parameters of the model. 
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-
-![equation](https://microsoft.codecogs.com/gif.latex?\dpi{400}\alpha&space;+&space;\frac{2\beta}{\gamma})  
