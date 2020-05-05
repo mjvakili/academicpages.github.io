@@ -1,10 +1,20 @@
 ---
 title: "Detection of red-sequence galaxies in the Kilo Degree Survey"
-excerpt: "How to find and characterize the reddest objects from 100 Tb of data 1<br/><img src='/images/redsq/lrg.png'>"
+excerpt: "How to find and characterize the reddest objects from 100 Tb of data <br/><img src='/images/redsq/lrg.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Luminous red galaxies are objects with old stellar populations that reside in regions of matter overdensity. 
+These are very rare objects because they only form in the densest regions and they tend to cover large volumes 
+of the universe.
+
+With the Kilo Degree Survey we have images 1500 deg<sup>2</sup> of the sky in 9 filters.
+
+
+ <br/><img src='/images/redsq/filters.png'>
+
+
+
 
 ![equation](https://microsoft.codecogs.com/gif.latex?\dpi{400}\alpha&space;+&space;\frac{2\beta}{\gamma})  
 
