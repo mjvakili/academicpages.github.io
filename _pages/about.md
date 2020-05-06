@@ -27,6 +27,8 @@ I develop and deploy models for getting the most of the unprecedented amount of 
 
 I have been lucky to mentor talented master students on how to detect anomalies and irregularities in high dimensional galaxy survey data sets.
 
+For a full list of my publications, take a look at [my Google Scholar profile](https://scholar.google.com/citations?user=FnlCPFEAAAAJ&hl=en).
+
 Furthermore, I spend sometime in the Netherlands Red Cross where I work in the autmoated damage assessment team. We are building computer vision models to automatically assess damage in Satellite images for the purpose of boosting reposnse to 
 natural disasters.
 
