@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-How am I?
----------
 
 My name is Mohammadjavad Vakili. I'm a researcher working on data-driven and machine learning methods 
 in order to extract insights from terabyte-sized cosmological datasets.
