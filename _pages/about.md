@@ -29,9 +29,12 @@ I develop and deploy models for getting the most of the unprecedented amount of 
 
 I have been lucky to mentor talented master students on how to detect anomalies and irregularities in high dimensional galaxy survey data sets.
 
-Furthermore, I spend sometime in the Netherlands Red Cross where I work in the autmoated damage assessment team.  
-We are building computer vision models to automatically assess damage in Satellite images for the purpose of boosting reposnse to 
+Furthermore, I spend sometime in the Netherlands Red Cross where I work in the autmoated damage assessment team. We are building computer vision models to automatically assess damage in Satellite images for the purpose of boosting reposnse to 
 natural disasters.
+
+Content
+------
+Feel free to take a look at a summary of my projects [Portfolio page](https://mjvakili.github.io/portfolio/) blog posts [Blog posts page](mjvakili.github.io/year-archive) the talks that I've given throughout my career [Talks page](https://mjvakili.github.io/talks).
 
 <!--What do I do?
 ==========
@@ -43,6 +46,4 @@ In the Kilo Degree Survey, I am the convener of the randoms group, where we perf
 data such as the correlation of the detection rate of objects and various variables such as the distorations due to telescope optics. 
 In the automated damage assessment team of the Red Cross, I am involved in developing semantic segmentation models for detecting the outlines of images, and predicting the level of damage in civilian areas after natural disasters.-->
 
-Content
-------
-Feel free to take a look at my blog posts [Blog posts page](mjvakili.github.io/year-archive) the talks that I've given throughout my career [Talks page](https://mjvakili.github.io/talks).
+
