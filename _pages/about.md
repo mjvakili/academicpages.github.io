@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-My name is Mohammadjavad Vakili. I'm a researcher working on data-driven and machine learning methods 
-in order to extract insights from terabyte-sized cosmological datasets.
+My name is Mohammadjavad Vakili. I'm a researcher at the [Leiden Observatory](http://www.strw.leidenuniv.nl/)
+working on data-driven and machine learning methods in order to extract insights from terabyte-sized cosmological datasets.
 
-At Leiden Observatory, I am a member of two international teams: [KiDS](http://kids.strw.leidenuniv.nl/) and the [Euclid Consurtium](https://www.euclid-ec.org/). In August 2017, I moved to Leiden, in the Netherlands. 
-Before that, I was a PhD researcher at New York University where I earned my PhD in Physics in the group of [David W. Hogg](https://www.simonsfoundation.org/team/david-hogg/) (Professor of Physics and Data Science at NYU).
+I am a member of two international teams: [KiDS](http://kids.strw.leidenuniv.nl/) and the [Euclid Consurtium](https://www.euclid-ec.org/). In August 2017, I moved to Leiden, in the Netherlands. 
 
-My activities fall into two main category:
+Previsouly, I was a PhD researcher at New York University where I earned my PhD in Physics in the group of [David W. Hogg](https://www.simonsfoundation.org/team/david-hogg/) (Professor of Physics and Data Science at NYU).
 
-* Building machine learning pipelines for automated object detection and classification in multiband imaging data
+My activities fall into two main categories:
 
-* Testing and forecasting cosmological models with statsitical inference and deep learning.
+* Building machine learning pipelines for automated object detection and classification in multiband imaging data.
+
+* Making robust predictions in cosmology with statistical inference and deep learning.
 
 
 <!--I work on extracting cosmological information from the complex terabyte-sized data sets such as multi-band images of the dark sky. I work in two international teams: the Euclid Survey (>1000 team members) and the Kilo Degree Survey (20 team members).
@@ -29,12 +30,12 @@ I have been lucky to mentor talented master students on how to detect anomalies 
 
 For a full list of my publications, take a look at [my Google Scholar profile](https://scholar.google.com/citations?user=FnlCPFEAAAAJ&hl=en).
 
-Furthermore, I spend sometime in the Netherlands Red Cross where I work in the autmoated damage assessment team. We are building computer vision models to automatically assess damage in Satellite images for the purpose of boosting reposnse to 
+Furthermore, I spend sometime in the Netherlands Red Cross where I work in the automated damage assessment team. We are building computer vision models to automatically assess damage in Satellite images for the purpose of boosting the response to 
 natural disasters.
 
 Content
 ------
-Feel free to take a look at a summary of my projects [Portfolio page](https://mjvakili.github.io/portfolio/) blog posts [Blog posts page](mjvakili.github.io/year-archive) the talks that I've given throughout my career [Talks page](https://mjvakili.github.io/talks).
+Feel free to take a look at a summary of my projects [Portfolio page](https://mjvakili.github.io/portfolio/), my blog posts [Blog posts page](mjvakili.github.io/year-archive), and the talks that I've given throughout my career [Talks page](https://mjvakili.github.io/talks).
 
 <!--What do I do?
 ==========
