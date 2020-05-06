@@ -28,7 +28,7 @@ comments:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
-    num_posts: # 5 (default)
+    num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
@@ -205,7 +205,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-   _teaching
+  # _teaching
   - scope:
       path: ""
       type: teaching
@@ -214,15 +214,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-   _publications
+  # _publications
   - scope:
       path: ""
       type: publications
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comments: true
+      values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
