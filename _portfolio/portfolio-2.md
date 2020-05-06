@@ -1,6 +1,6 @@
 ---
 title: "Testing cosmological models with statistical inference and deep learning"
-excerpt: "Accurate parameter estimation without likelihoods? <br/><img src='/images/Screenshot 2020-05-06 at 9.54.19 AM.png'>"
+excerpt: "Accurate parameter estimation without likelihoods? <br/><img src='/images/vmax/Screenshot 2020-05-06 at 9.54.19 AM.png'>"
 collection: portfolio
 ---
 In cosmology, the mathematical models describing the universe are constrained with Bayesian inference. 
