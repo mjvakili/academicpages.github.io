@@ -11,8 +11,7 @@ redirect_from:
 My name is Mohammadjavad Vakili. I'm a researcher at the [Leiden Observatory](http://www.strw.leidenuniv.nl/)
 working on data-driven and machine learning methods in order to extract insights from terabyte-sized cosmological datasets.
 
-I am a member of two international teams: [KiDS](http://kids.strw.leidenuniv.nl/) and the [Euclid Consurtium](https://www.euclid-ec.org/). In August 2017, I moved to Leiden, in the Netherlands. 
-
+I work in the lensing group of [Henk Hoekstra] where I actively work in two international teams: [KiDS](http://kids.strw.leidenuniv.nl/) and the [Euclid Consurtium](https://www.euclid-ec.org/). 
 Previsouly, I was a PhD researcher at New York University where I earned my PhD in Physics in the group of [David W. Hogg](https://www.simonsfoundation.org/team/david-hogg/) (Professor of Physics and Data Science at NYU).
 
 My activities fall into two main categories:
