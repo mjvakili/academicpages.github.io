@@ -11,7 +11,7 @@ redirect_from:
 My name is Mohammadjavad Vakili. I'm a researcher at the [Leiden Observatory](http://www.strw.leidenuniv.nl/)
 working on data-driven and machine learning methods in order to extract insights from terabyte-sized cosmological datasets.
 
-I work in the lensing group of [Henk Hoekstra] where I actively work in two international teams: [KiDS](http://kids.strw.leidenuniv.nl/) and the [Euclid Consurtium](https://www.euclid-ec.org/). 
+I work in the lensing group of [Henk Hoekstra](https://home.strw.leidenuniv.nl/~hoekstra/) where I actively work in two international teams: [KiDS](http://kids.strw.leidenuniv.nl/) and the [Euclid Consurtium](https://www.euclid-ec.org/). 
 Previsouly, I was a PhD researcher at New York University where I earned my PhD in Physics in the group of [David W. Hogg](https://www.simonsfoundation.org/team/david-hogg/) (Professor of Physics and Data Science at NYU).
 
 My activities fall into two main categories:
@@ -29,8 +29,7 @@ I have been lucky to mentor talented master students on how to detect anomalies 
 
 For a full list of my publications, take a look at [my Google Scholar profile](https://scholar.google.com/citations?user=FnlCPFEAAAAJ&hl=en).
 
-Furthermore, I spend sometime in the Netherlands Red Cross where I work in the automated damage assessment team. We are building computer vision models to automatically assess damage in Satellite images for the purpose of boosting the response to 
-natural disasters.
+Furthermore, I spend sometime in the Netherlands Red Cross where I work in the automated damage assessment team. We are building computer vision models to automatically assess damage in Satellite images for the purpose of boosting the response to natural disasters.
 
 Content
 ------
