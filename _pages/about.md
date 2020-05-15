@@ -24,12 +24,9 @@ My activities fall into two main categories:
 <!--I work on extracting cosmological information from the complex terabyte-sized data sets such as multi-band images of the dark sky. I work in two international teams: the Euclid Survey (>1000 team members) and the Kilo Degree Survey (20 team members).
 I develop and deploy models for getting the most of the unprecedented amount of data coming from these two large galaxy surveys. 
 --> 
-
-I have been lucky to mentor talented master students on how to detect anomalies and irregularities in high dimensional galaxy survey data sets.
-
 For a full list of my publications, take a look at [my Google Scholar profile](https://scholar.google.com/citations?user=FnlCPFEAAAAJ&hl=en).
-
-Furthermore, I spend sometime in the Netherlands Red Cross where I work in the automated damage assessment team. We are building computer vision models to automatically assess damage in Satellite images for the purpose of boosting the response to natural disasters.
+I have menteored talented master students on massive data compression of cosmological observables and and detection of anomalies in high dimensional photometric data sets.
+Furthermore, I spend some time in the data team of the Netherlands Red Cross where I work in the automated damage assessment team. We are building computer vision models to automatically assess damage in Satellite images for the purpose of boosting the response to natural disasters.
 
 Content
 ------
