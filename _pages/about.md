@@ -25,7 +25,7 @@ My activities fall into two main categories:
 I develop and deploy models for getting the most of the unprecedented amount of data coming from these two large galaxy surveys. 
 --> 
 For a full list of my publications, take a look at [my Google Scholar profile](https://scholar.google.com/citations?user=FnlCPFEAAAAJ&hl=en).
-I have menteored talented master students on massive data compression of cosmological observables and and detection of anomalies in high dimensional photometric data sets.
+I have mentored talented master students on massive data compression of cosmological observables and and detection of anomalies in high dimensional photometric data sets.
 Furthermore, I spend some time in the data team of the Netherlands Red Cross where I work in the automated damage assessment team. We are building computer vision models to automatically assess damage in Satellite images for the purpose of boosting the response to natural disasters.
 
 Content
